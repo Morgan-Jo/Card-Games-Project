@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Morgan Tonner\OneDrive\Documents\Work\Github\Card Games - Project\Java\.metadata\.plugins\org.eclipse.jdt.core
+1943792258.index
+193011141.index
+4093631224.index
+1617351821.index
+1865797976.index

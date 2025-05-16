@@ -1,0 +1,10 @@
+🃏 Blackjack Rules (Simplified Version):
+1. The goal is to get a hand value as close to 21 as possible without going over.
+2. Cards 2–10 are worth their face value, face cards (J, Q, K) are worth 10, and Aces can be worth 1 or 11.
+3. Both the player and dealer start with two cards.
+4. The player can choose to:
+    Hit: Take another card.
+    Stand: Keep current hand and end turn.
+5. The dealer must keep drawing cards until reaching 17 or higher.
+6. If either the player or dealer exceeds 21, they bust and lose the game.
+7. Closest to 21 without going over wins.

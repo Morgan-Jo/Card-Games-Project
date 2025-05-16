@@ -1,0 +1,6 @@
+🃏 Rules of the Game: Higher or Lower
+1. The player is shown a card (numbered 1 to 13, where 1 = Ace, 11 = Jack, 12 = Queen, 13 = King).
+2. The player guesses if the next card will be higher or lower.
+3. A new card is drawn.
+4. If the guess is correct, the score increases.
+5. If the guess is wrong or the card is the same, the game ends.

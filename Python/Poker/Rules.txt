@@ -1,0 +1,19 @@
+🃏 Poker (5-Card Draw) — Simplified Rules
+Objective: Make the best 5-card poker hand
+Players: 2 (can be extended)
+Rules:
+- Each player is dealt five cards.
+- Players may choose which cards to discard (simulate this randomly or preselect for simplicity).
+- They draw new cards to replace discarded ones.
+- Highest-ranking hand wins.
+- Poker hand ranking:
+    - High Card
+    - One Pair
+    - Two Pair
+    - Three of a Kind
+    - Straight
+    - Flush
+    - Full House
+    - Four of a Kind
+    - Straight Flush
+    - Royal Flush

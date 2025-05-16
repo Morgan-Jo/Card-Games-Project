@@ -1,0 +1,14 @@
+# Go Fish 🐟 - Card Game Rules
+
+**Objective**: Collect the most books (sets of 4 cards of the same rank).
+
+**Players**: 2 (Human vs Computer)
+
+### Game Rules:
+- Players take turns asking the opponent for a specific rank.
+- You can only ask for a rank you already have.
+- If the opponent has cards of that rank, they must give all of them.
+- If not, the opponent says "Go Fish", and you draw one card from the deck.
+- If you draw the card you asked for, you get another turn.
+- Form a "book" when you collect 4 of the same rank.
+- Game ends when all 13 books have been formed.

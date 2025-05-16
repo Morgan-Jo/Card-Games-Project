@@ -1,0 +1,5 @@
+📝 Rules
+- A card (numbered 2 to 14, where 11–14 represent Jack, Queen, King, Ace) is shown.
+- The player guesses whether the next card will be higher or lower.
+- If the guess is correct, the player scores a point and continues.
+- The game continues until the guess is wrong or the deck runs out.

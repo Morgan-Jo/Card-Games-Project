@@ -1,0 +1,20 @@
+🃏 War – Basic Rules
+🎯 Objective
+To win the most rounds by playing the higher card.
+
+🔧 Setup
+A standard 52-card deck is shuffled and evenly divided between two players.
+Each player starts with 26 cards, face down.
+Cards are ranked in standard order:
+2 (lowest) → 10 → J → Q → K → A (highest)
+
+🕹️ Gameplay
+In each round, both players draw the top card of their deck and reveal it.
+The player with the higher-ranked card wins the round and scores 1 point.
+If the cards are of equal value, the round is a tie, and no points are awarded.
+The game continues for 26 rounds (since each player has 26 cards).
+After all rounds are complete, the player with the most points wins.
+
+🏆 Winning
+The player with the highest score after all rounds is declared the winner.
+If both players have the same score, the game ends in a draw.

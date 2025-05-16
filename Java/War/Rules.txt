@@ -1,0 +1,15 @@
+📜 Game Rules for War
+Objective: Win all the cards.
+Players: 2
+
+Gameplay:
+Each player draws the top card from their deck.
+The higher card wins the round; the winner takes both cards and places them at the bottom of their deck.
+If the cards are equal in value, it's "war":
+Each player places one card face down and then one card face up.
+The higher face-up card wins all cards.
+Repeat war if those cards are also equal.
+
+Endgame:
+A player wins when the opponent has no cards left.
+

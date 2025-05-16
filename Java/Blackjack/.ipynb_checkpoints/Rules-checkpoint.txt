@@ -1,0 +1,7 @@
+Blackjack Rules
+- Each player is dealt 2 cards.
+- Cards 2-10 are worth their face value. J, Q, K = 10. Ace = 1 or 11.
+- Player can choose to Hit (draw a card) or Stand (end their turn).
+- Dealer must hit until reaching 17 or higher.
+- Closest to 21 without going over wins.
+- If a player goes over 21, they bust and lose.
